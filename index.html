@@ -21,6 +21,7 @@
     var name = param[0].value;
     console.log(name);
     var tick = parseInt(param[1].value) + parseInt(param[2].value);
+    tick = tick || 1;
     console.log(tick);
     localStorage.setItem(name, tick);
   }
@@ -81,6 +82,7 @@
   document.addForm.onsubmit = function( e ) {
     var name = document.addForm.name.value;
     var tick = parseInt(document.addForm.startTick.value);
+    tick = tick || 1;
     localStorage.setItem(name, tick);
   }
 </script>

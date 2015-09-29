@@ -1,1 +1,1694 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"length"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"add",
+				"addTicks"
+			],
+			[
+				"find",
+				"findHighTick"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"start",
+				"startTick"
+			],
+			[
+				"art",
+				"artist"
+			],
+			[
+				"ima",
+				"imageH"
+			],
+			[
+				"parent",
+				"parentH"
+			],
+			[
+				"hei",
+				"heightRatio"
+			],
+			[
+				"drop",
+				"dropdown"
+			],
+			[
+				"dr",
+				"dropdown"
+			],
+			[
+				"dro",
+				"dropdownTitle"
+			],
+			[
+				"mouse",
+				"mouseleave"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"dop",
+				"dropdown-menu"
+			],
+			[
+				"ar",
+				"artists"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"ori",
+				"originalInfo"
+			],
+			[
+				"artist",
+				"artistId"
+			],
+			[
+				"arti",
+				"artistId"
+			],
+			[
+				"re",
+				"refreshURL"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"gr",
+				"groupName"
+			],
+			[
+				"ser",
+				"searchResPage"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"chec",
+				"checkIfOriginal"
+			],
+			[
+				"incl",
+				"incl1	include_once …"
+			],
+			[
+				"gri",
+				"gridimage"
+			],
+			[
+				"se",
+				"selector"
+			],
+			[
+				"split",
+				"splitFilter"
+			],
+			[
+				"spli",
+				"splitFilter"
+			],
+			[
+				"spl",
+				"splitFilter"
+			],
+			[
+				"c",
+				"children"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"filt",
+				"filterArt"
+			],
+			[
+				"new",
+				"newSearch"
+			],
+			[
+				"fil",
+				"filterValue"
+			],
+			[
+				"sear",
+				"search"
+			],
+			[
+				"fi",
+				"filterArt"
+			],
+			[
+				"grid",
+				"gridlayout"
+			],
+			[
+				"p",
+				"piece"
+			],
+			[
+				"to",
+				"toReturn"
+			],
+			[
+				"tag",
+				"tagString"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"join",
+				"JOIN"
+			],
+			[
+				"A",
+				"AND"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"aboutvid",
+				"aboutVideoDiv"
+			],
+			[
+				"about",
+				"aboutContent"
+			],
+			[
+				"video",
+				"videoHide"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"where",
+				"WHERE"
+			],
+			[
+				"hover",
+				"hoverElement"
+			],
+			[
+				"is",
+				"isVisable"
+			],
+			[
+				"s",
+				"sizeArray"
+			],
+			[
+				"form",
+				"form_option"
+			],
+			[
+				"size",
+				"sizeDiv"
+			],
+			[
+				"hidd",
+				"hiddenSize"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"mat",
+				"material"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"price",
+				"priceAndStock"
+			],
+			[
+				"pri",
+				"priceAndStock"
+			],
+			[
+				"siz",
+				"size"
+			],
+			[
+				"materi",
+				"Material"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"hide",
+				"hideAll"
+			],
+			[
+				"getA",
+				"getAllArt"
+			],
+			[
+				"next",
+				"next"
+			],
+			[
+				"sli",
+				"sliceboxImages"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"cart",
+				"cartItems"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"globa",
+				"global"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"try",
+				"try	Try/Except/Else/Finally"
+			],
+			[
+				"cu",
+				"currency"
+			],
+			[
+				"pre",
+				"permitedCurrencies"
+			],
+			[
+				"pr",
+				"permitedCurrencies"
+			],
+			[
+				"conv",
+				"convertedAmount"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"wai",
+				"waiting_customers"
+			],
+			[
+				"de",
+				"destination_floor"
+			],
+			[
+				"cos",
+				"customer_enters"
+			],
+			[
+				"star",
+				"start_floor"
+			],
+			[
+				"sta",
+				"starting_floor"
+			],
+			[
+				"tuple",
+				"tupleOfLine"
+			],
+			[
+				"calc",
+				"calcSlugging"
+			],
+			[
+				"slugg",
+				"sluggingData"
+			],
+			[
+				"slug",
+				"sluggingData"
+			],
+			[
+				"slu",
+				"sluggingData"
+			],
+			[
+				"batting",
+				"battingData"
+			],
+			[
+				"sort",
+				"sorted"
+			],
+			[
+				"report",
+				"reportSlugging"
+			],
+			[
+				"repor",
+				"reportBatting"
+			],
+			[
+				"batt",
+				"battingData"
+			],
+			[
+				"sorted",
+				"sortedData"
+			],
+			[
+				"file",
+				"fileData"
+			],
+			[
+				"wor",
+				"word"
+			],
+			[
+				"list",
+				"listOfTeams"
+			],
+			[
+				"user",
+				"userChoice"
+			],
+			[
+				"tup",
+				"tupleOfLine"
+			],
+			[
+				"read",
+				"readFile"
+			],
+			[
+				"ana",
+				"anagramDictoinary"
+			],
+			[
+				"sor",
+				"sortedTupleOfWord"
+			],
+			[
+				"word",
+				"wordCounts"
+			],
+			[
+				"mon",
+				"monthsToNum"
+			],
+			[
+				"num",
+				"NumToMonths"
+			],
+			[
+				"pos",
+				"posNums"
+			],
+			[
+				"rev",
+				"revNumber"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"cp",
+				"cookiesPs"
+			],
+			[
+				"best",
+				"bestBuilding"
+			],
+			[
+				"w",
+				"waitToCollectWrinklers"
+			],
+			[
+				"up",
+				"upgradeToBuy"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "css",
+		"selected_items":
+		[
+			[
+				"css",
+				"Format CSS: Expanded"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"ip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"cl",
+				"File: Close All"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"upl",
+				"FTPSync: Upload current file"
+			],
+			[
+				"UPL",
+				"FTPSync: Upload current file"
+			],
+			[
+				"rename",
+				"FTPSync: Rename current file"
+			],
+			[
+				"cloe",
+				"Project: Close"
+			],
+			[
+				"upload",
+				"FTPSync: Upload current file"
+			],
+			[
+				"uplo",
+				"FTPSync: Upload current file"
+			],
+			[
+				"up",
+				"FTPSync: Upload current file"
+			],
+			[
+				"casee",
+				"Convert Case: Upper Case"
+			],
+			[
+				"pro",
+				"Project: Close"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"sublimerepl",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"sublime",
+				"SublimeREPL: Python"
+			],
+			[
+				"run",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"rrn",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"p",
+				"Project: Close"
+			],
+			[
+				"RUN",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"close ",
+				"Project: Close"
+			],
+			[
+				"proje",
+				"Project: Close"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"clo",
+				"File: Close All"
+			],
+			[
+				"runn",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"pr",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"set syntax plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sublimecode",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"mard",
+				"MarkdownEditing: Fix Underlined Headers"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Javascript Beautify"
+			],
+			[
+				"save",
+				"File: Save All"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 251.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Akumbar/Documents/GitHub/RPGTicks"
+	],
+	"file_history":
+	[
+		"/C/Users/Akumbar/Documents/GitHub/RPGTicks/index.html",
+		"/C/Dropbox/rabserver/ftp accounts.txt",
+		"/C/Users/Akumbar/Documents/GitHub/RPGTicks/ftpsync.settings",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/9-23-15 call.txt",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/cart.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/connect.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/contact.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/gallery.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/gallery2.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/index.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/listArtists.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/originalsLanding.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/originalView.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/shippingPolicy.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/terms.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/pageStart.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/about.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/aboutAlt.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/addToCart.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/admin.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/artist.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/artist2.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/auction.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/css/style.css",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/cartOriginal.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/dbfunctions.php",
+		"/C/Dropbox/Nate Hockstra Coaching/9-1-15.md",
+		"/C/Dropbox/Nate Hockstra Coaching/9-22-15.md",
+		"/C/Dropbox/RPM Planning/Hour of Power/Life Catagories.md",
+		"/C/Dropbox/Cisco/Offer/9-12-15 notes from dad.md",
+		"/C/Dropbox/Cisco Offer Notes.md",
+		"/C/Users/Akumbar/Downloads/4450.vcf",
+		"/C/Dropbox/Nate Hockstra Coaching/9-22-15.txt",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/js/galleryJS.js",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/9-19-15 call with shark.txt",
+		"/C/Dropbox/ultimate edge journal/9-19-15.txt",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/9-13-15 call with shark.txt",
+		"/C/Dropbox/College/fall15/Enterprise IT Integration/Case presentation/notes.txt",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/js/imageSort.js",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/css/bootstrap.min.css",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/9-12-15 todo from facebook.txt",
+		"/C/Dropbox/ultimate edge journal/9-13-15.txt",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/css/demo.css",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/9-7-15 call with shark.txt",
+		"/C/Dropbox/RPM Planning/Hour of Power/Ultimate Vision.md",
+		"/C/Dropbox/ultimate edge journal/9-9-15.txt",
+		"/C/Dropbox/ultimate edge journal/9-8-15.txt",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/auctiontest.php",
+		"/C/Dropbox/Breathing/index.html",
+		"/C/Dropbox/ultimate edge journal/9-7-15.txt",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/9-6-15 call with derrick.txt",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/config.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/test.php",
+		"/C/xampp/htdocs/test/config.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/originals.php",
+		"/C/Dropbox/RPM Planning/Web tool/contacts.json",
+		"/C/Dropbox/RPM Planning/Web tool/rpmDays.json",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/js/isotope.pkgd.min.js",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/cartfunctions.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/RPM for website.txt",
+		"/C/Dropbox/ultimate edge journal/9-1-15.txt",
+		"/C/Dropbox/Nate Hockstra Coaching/8-21-15.md",
+		"/C/Users/Akumbar/Desktop/building description.txt",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/8-24-15 notes from facebook.txt",
+		"/C/Users/Akumbar/Downloads/mod_slicebox_slider_v1.5.3_j25_j30/mod_slicebox_slider.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/8-31-15 call with adam.txt",
+		"/C/Dropbox/Justin Price/Virtual Gallery/gmail account.txt",
+		"/C/Users/Akumbar/Downloads/mod_slicebox_slider_v1.5.3_j25_j30/demo/index.html",
+		"/C/Users/Akumbar/Downloads/mod_slicebox_slider_v1.5.3_j25_j30/index.html",
+		"/C/Users/Akumbar/Downloads/mod_slicebox_slider_v1.5.3_j25_j30/helper.php",
+		"/C/Dropbox/Psi Upsilon/Rush/Fall 2015/reframe speech.txt",
+		"/C/Dropbox/Psi Upsilon/start of fall semester.txt",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/8-30-15 call with derrick.txt",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/notes from 8-29-15 call with justin.txt",
+		"/C/Users/Akumbar/Downloads/vCard.vcf",
+		"/C/Dropbox/Cisco/thank you notes/carol.txt",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/8-1-15",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/long term todo",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/8-2-15",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/index.php",
+		"/C/Dropbox/Nate Hockstra Coaching/7-31-15.md",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/7-26-15",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/7-22-15.txt",
+		"/C/Dropbox/Nate Hockstra Coaching/3-19-15.md",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/7-12-15.txt",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/getPrice.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/getSizes.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/6-21-15 call.txt",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/Call with Justin 5-24-15",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/paypalLink.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/cartDel.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/6-2-15 call",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/ProjectNeverland.sublime-project",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/resources/MYRIADPRO-COND.OTF",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/notes 11-10-14.md",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/6-15-15.txt",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/6-10-15.txt",
+		"/C/Users/Akumbar/Documents/GitHub/SWORG/css/altstyle.css",
+		"/C/Users/Akumbar/Documents/GitHub/SWORG/pageEnd.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/js/jquery.slicebox.js",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/css/slicebox.css",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/ER Diag.docx",
+		"/C/Dropbox/Nate Hockstra Coaching/5-26-15.md",
+		"/C/Dropbox/Nate Hockstra Coaching/5-15-15.md",
+		"/C/Dropbox/Nate Hockstra Coaching/5-6-15.md",
+		"/C/Users/Akumbar/Desktop/GitHubLog.txt",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/resources/main.js",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/3-30-15",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/.gitignore",
+		"/C/Users/Akumbar/AppData/Local/Temp/7zO8A08.tmp/ARIA_README.txt",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/php/config.php",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/ftpsync.settings",
+		"/C/Dropbox/College/spring15/HCI/in class exercise/sis evaluation.txt",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/root_dir/css/custom.css",
+		"/C/Dropbox/rabserver/username.txt",
+		"/C/Dropbox/rabserver/temp password.txt",
+		"/C/Dropbox/Kaija Job/notes.txt",
+		"/C/Dropbox/networking/people.md",
+		"/C/Users/Akumbar/Documents/GitHub/ProjectNeverland/Docs/db-init.sql",
+		"/C/Dropbox/College/fall14/managing it resources/team/Hey Alex here is my first rendition of notes on ju",
+		"/C/Dropbox/College/Hey Alex here is my first rendition of notes on ju",
+		"/C/Dropbox/Life Goals/Life Goals.txt",
+		"/C/Dropbox/College/fall14/intro to philosophy/notes/9-29-14.md",
+		"/C/Dropbox/College/fall14/intro to philosophy/notes/10-2-14.md",
+		"/C/Dropbox/College/fall14/intro to philosophy/notes/11-20-14.md",
+		"/C/Dropbox/Amway IBO/info.txt",
+		"/C/Dropbox/College/fall14/resume/Deloitte/11-17-14 other offer.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"addToCart",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"j",
+			"i",
+			"lowTick",
+			"description",
+			"black",
+			"255",
+			"black",
+			"#art-description",
+			"h5",
+			"Available",
+			"avail",
+			".6)",
+			"0.7",
+			"navbar",
+			"<title>.*</title>",
+			"<title",
+			"title",
+			"___",
+			"get",
+			"about",
+			"aboutContainer",
+			"aboutcontent",
+			"h3>",
+			"$artist",
+			"artist",
+			"original",
+			"timeoutFunction",
+			"sortImage",
+			"timeoutFunctionLarge",
+			"sortImageLarge",
+			"add-to-cart-image",
+			"cart-image-img",
+			"sort",
+			"loading",
+			"remove",
+			"header",
+			"mouseleave",
+			"mouseleaves",
+			"mouseout",
+			"mouseleave",
+			"dropdown-menu",
+			"dropdown",
+			".margin",
+			"left",
+			">",
+			"<h1>Loading, Thank You For Your Patience.</h1>",
+			"loading",
+			"remove",
+			"The page is loading. Thank you for your patience.",
+			">  *",
+			">*",
+			"> *",
+			"ul",
+			"<a ",
+			"frame_field",
+			"5, 0)",
+			"rgba(255, 255, 255, 0)",
+			".6",
+			"getallnames",
+			"hover-to-reveal",
+			"title",
+			"Justin Price",
+			".navbar-default .navbar-brand {",
+			".navbar-default .navbar-nav>li>a",
+			".navbar-right",
+			"test",
+			"getart",
+			"str_replace\\(' ', ' ',strtolower\\((.*?)\\)\\)",
+			"str_replace\\(' ', ' ',strtolower\\((.*?)\\)",
+			"str_replace\\(' ', ' ',strtolower\\(($tag)\\)",
+			"h1",
+			"original",
+			"searchResPage[1]",
+			":hover",
+			"!",
+			",.",
+			"' ', '',",
+			"console.log",
+			"checkForOriginal",
+			"getOriginal",
+			"getOrigional",
+			"filterValue",
+			";\n",
+			"name",
+			"artistNames",
+			"artists",
+			"getartist",
+			"filter-option",
+			"$grid",
+			"getAllArt",
+			"getAllart",
+			"  ",
+			"add to cart",
+			"add-to-cart",
+			"add to cart",
+			";\">",
+			"class=\"button",
+			"button",
+			"rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%",
+			"rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%)",
+			"scaleX",
+			"getart",
+			"inventory",
+			"getinventoryh",
+			"artInfo",
+			"remove",
+			"alert('tset');",
+			"artInfo",
+			"artist_picture",
+			"artist",
+			"add-to-cart-height",
+			"'",
+			"holderRatio",
+			"imageRatio",
+			"left",
+			"timeout = 50",
+			".gridimage",
+			"frame",
+			"Design Your Product",
+			"design you product",
+			"s ",
+			"artist_picture",
+			"add-to-cart",
+			"$('.gridimage').css('width')",
+			".gridimage",
+			"// alert($('.gridimage').css('width') + ' : ' + $('.gridimage').css('height'))",
+			"kill",
+			"i skill"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"add-to-cart-image",
+			"<h2>Loading, Thank You For Your Patience.</h2>",
+			"Loading, Thank You For Your Patience.",
+			"$1",
+			"getOriginal",
+			" ",
+			"timeout = 100",
+			"<p>$1</p>",
+			"<h2>$1</h2>",
+			"*",
+			"hiddenMaterial",
+			"top-section",
+			"",
+			"$piece->",
+			"$db",
+			"-",
+			"",
+			"websci",
+			"\"",
+			"\\\"",
+			"'",
+			"\\\"",
+			"</p><p>",
+			"</b>",
+			"<b>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "RPGTicks.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"p",
+				"ftpsync.settings"
+			],
+			[
+				"page",
+				"root_dir\\php\\pageStart.php"
+			],
+			[
+				"style",
+				"root_dir\\css\\style.css"
+			],
+			[
+				"cart",
+				"root_dir\\php\\cart.php"
+			],
+			[
+				"addto",
+				"root_dir\\php\\addToCart.php"
+			],
+			[
+				"shipp",
+				"root_dir\\php\\shippingPolicy.php"
+			],
+			[
+				"sty",
+				"root_dir\\css\\style.css"
+			],
+			[
+				"gal",
+				"root_dir\\php\\gallery.php"
+			],
+			[
+				"9-",
+				"Docs\\9-23-15 call.txt"
+			],
+			[
+				"ind",
+				"root_dir\\php\\index.php"
+			],
+			[
+				"origina",
+				"root_dir\\php\\originalsLanding.php"
+			],
+			[
+				"gall",
+				"root_dir\\php\\gallery.php"
+			],
+			[
+				"auc",
+				"root_dir\\php\\auction.php"
+			],
+			[
+				"st",
+				"root_dir\\css\\style.css"
+			],
+			[
+				"db",
+				"root_dir\\php\\dbfunctions.php"
+			],
+			[
+				"gallery",
+				"root_dir\\js\\galleryJS.js"
+			],
+			[
+				"list",
+				"root_dir\\php\\listArtists.php"
+			],
+			[
+				"art",
+				"root_dir\\php\\artist.php"
+			],
+			[
+				"about",
+				"root_dir\\php\\about.php"
+			],
+			[
+				"cont",
+				"root_dir\\php\\contact.php"
+			],
+			[
+				"shark",
+				"Docs\\9-19-15 call with shark.txt"
+			],
+			[
+				"paghe",
+				"root_dir\\php\\pageStart.php"
+			],
+			[
+				"conn",
+				"root_dir\\php\\connect.php"
+			],
+			[
+				"a",
+				"root_dir\\php\\auction.php"
+			],
+			[
+				"dbfu",
+				"root_dir\\php\\dbfunctions.php"
+			],
+			[
+				"orig",
+				"root_dir\\php\\originalView.php"
+			],
+			[
+				"artist",
+				"root_dir\\php\\artist.php"
+			],
+			[
+				"arti",
+				"root_dir\\php\\artist.php"
+			],
+			[
+				"add",
+				"root_dir\\php\\addToCart.php"
+			],
+			[
+				"sort",
+				"root_dir\\js\\imageSort.js"
+			],
+			[
+				"boot",
+				"root_dir\\css\\bootstrap.min.css"
+			],
+			[
+				"galler",
+				"root_dir\\php\\gallery.php"
+			],
+			[
+				"css",
+				"root_dir\\css\\style.css"
+			],
+			[
+				"conta",
+				"root_dir\\php\\contact.php"
+			],
+			[
+				"con",
+				"root_dir\\php\\contact.php"
+			],
+			[
+				"connect",
+				"root_dir\\php\\connect.php"
+			],
+			[
+				"galer",
+				"root_dir\\php\\gallery.php"
+			],
+			[
+				"conne",
+				"root_dir\\php\\connect.php"
+			],
+			[
+				"land",
+				"root_dir\\php\\originalsLanding.php"
+			],
+			[
+				"or",
+				"root_dir\\php\\originalsLanding.php"
+			],
+			[
+				"view",
+				"root_dir\\php\\originalView.php"
+			],
+			[
+				"demo",
+				"root_dir\\css\\demo.css"
+			],
+			[
+				"in",
+				"root_dir\\php\\index.php"
+			],
+			[
+				"au",
+				"root_dir\\php\\auction.php"
+			],
+			[
+				"ori",
+				"root_dir\\php\\originalView.php"
+			],
+			[
+				"ga",
+				"root_dir\\js\\galleryJS.js"
+			],
+			[
+				"6",
+				"Docs\\9-6-15 call with derrick.txt"
+			],
+			[
+				"stye",
+				"root_dir\\css\\style.css"
+			],
+			[
+				"conf",
+				"config.php"
+			],
+			[
+				"test",
+				"root_dir\\php\\test.php"
+			],
+			[
+				"iso",
+				"root_dir\\js\\isotope.pkgd.min.js"
+			],
+			[
+				"cartf",
+				"root_dir\\php\\cartfunctions.php"
+			],
+			[
+				"pag",
+				"root_dir\\php\\pageStart.php"
+			],
+			[
+				"face",
+				"Docs\\8-24-15 notes from facebook.txt"
+			],
+			[
+				"im",
+				"root_dir\\js\\imageSort.js"
+			],
+			[
+				"cs",
+				"root_dir\\css\\style.css"
+			],
+			[
+				"todo",
+				"Docs\\long term todo"
+			],
+			[
+				"8-2",
+				"Docs\\8-2-15"
+			],
+			[
+				"des",
+				"root_dir\\php\\pageStart.php"
+			],
+			[
+				"8-",
+				"Docs\\8-1-15"
+			],
+			[
+				"shipping",
+				"root_dir\\php\\shippingPolicy.php"
+			],
+			[
+				"contat",
+				"root_dir\\php\\contact.php"
+			],
+			[
+				"8-1",
+				"Docs\\8-1-15"
+			],
+			[
+				"contac",
+				"root_dir\\php\\contact.php"
+			],
+			[
+				"ad",
+				"root_dir\\php\\admin.php"
+			],
+			[
+				"pages",
+				"root_dir\\php\\pageStart.php"
+			],
+			[
+				"shi",
+				"root_dir\\php\\shippingPolicy.php"
+			],
+			[
+				"alt",
+				"root_dir\\php\\aboutAlt.php"
+			],
+			[
+				"7-",
+				"Docs\\7-26-15"
+			],
+			[
+				"fun",
+				"root_dir\\php\\dbfunctions.php"
+			],
+			[
+				"image",
+				"root_dir\\js\\imageSort.js"
+			],
+			[
+				"7",
+				"Docs\\7-12-15.txt"
+			],
+			[
+				"12",
+				"Docs\\7-12-15.txt"
+			],
+			[
+				"get",
+				"root_dir\\php\\getSizes.php"
+			],
+			[
+				"getp",
+				"root_dir\\php\\getPrice.php"
+			],
+			[
+				"admin",
+				"root_dir\\php\\admin.php"
+			],
+			[
+				"7-12",
+				"Docs\\7-12-15.txt"
+			],
+			[
+				"ar",
+				"root_dir\\php\\artist.php"
+			],
+			[
+				"call",
+				"Docs\\6-21-15 call.txt"
+			],
+			[
+				"styl",
+				"root_dir\\css\\style.css"
+			],
+			[
+				"6-",
+				"Docs\\6-15-15.txt"
+			],
+			[
+				"15",
+				"Docs\\6-15-15.txt"
+			],
+			[
+				"",
+				"root_dir\\css\\style.css"
+			],
+			[
+				"10",
+				"Docs\\6-10-15.txt"
+			],
+			[
+				"imag",
+				"root_dir\\js\\imageSort.js"
+			],
+			[
+				"cal",
+				"Docs\\6-2-15 call"
+			],
+			[
+				"cslice",
+				"root_dir\\css\\slicebox.css"
+			],
+			[
+				"sy",
+				"root_dir\\css\\style.css"
+			],
+			[
+				"js",
+				"root_dir\\js\\jquery.slicebox.js"
+			],
+			[
+				"scl",
+				"root_dir\\css\\slicebox.css"
+			],
+			[
+				"ca",
+				"Docs\\Call with Justin 5-24-15"
+			],
+			[
+				"congi",
+				"root_dir\\php\\config.php"
+			],
+			[
+				"config",
+				"config.php"
+			],
+			[
+				"styel",
+				"root_dir\\css\\style.css"
+			],
+			[
+				"pay",
+				"root_dir\\php\\paypalLink.php"
+			],
+			[
+				"ft",
+				"root_dir\\ftpsync.settings"
+			],
+			[
+				"ftp",
+				"root_dir\\ftpsync.settings"
+			],
+			[
+				"dbf",
+				"root_dir\\php\\dbfunctions.php"
+			],
+			[
+				"confi",
+				"config.php"
+			],
+			[
+				"glal",
+				"root_dir\\php\\gallery.php"
+			],
+			[
+				"1",
+				"assignment 1\\proj01_Alex_Kumbar.py"
+			],
+			[
+				"4",
+				"assignment 4/proj04_Alex_Kumbar.py"
+			],
+			[
+				"5",
+				"assignment 5/proj05_Alex_Kumbar.py"
+			],
+			[
+				"05",
+				"assignment 5/proj05_Alex_Kumbar.py"
+			],
+			[
+				"f",
+				"exercises/findLongWords.py"
+			],
+			[
+				"3",
+				"assignment 3/proj03_Alex_Kumbar.py"
+			],
+			[
+				"spir",
+				"exercises/spiral.py"
+			],
+			[
+				"2",
+				"assignment 2/proj02_Alex_Kumbar.py"
+			],
+			[
+				"pr2",
+				"assignment 2/proj02_Alex_Kumbar.py"
+			],
+			[
+				"pro2",
+				"assignment 2/proj02_Alex_Kumbar.py"
+			],
+			[
+				"ass",
+				"assignment 2/proj02_Alex_Kumbar.py"
+			],
+			[
+				"tu",
+				"prof examples/turtle_ninja.py"
+			],
+			[
+				"dic",
+				"exercises/dictoinaries.py"
+			],
+			[
+				"ex",
+				"exercises/strings.py"
+			],
+			[
+				"main",
+				"assignment 1/main.py"
+			],
+			[
+				"s",
+				"lab10/sgb-words.txt.huf"
+			],
+			[
+				"lab7",
+				"lab7/MazeSolver.cpp"
+			],
+			[
+				"sg",
+				"lab6/sgb-words.txt"
+			],
+			[
+				"lab6",
+				"lab6/lab6-Graph.cpp"
+			],
+			[
+				"lab5",
+				"lab5/lab5-Graph.cpp"
+			],
+			[
+				"lab3",
+				"lab3/lab3-Graph.cpp"
+			],
+			[
+				"gra",
+				"lab3/lab3-Graph.cpp"
+			],
+			[
+				"q2",
+				"lab1/lab1q2.cpp"
+			],
+			[
+				"lab2",
+				"lab2/lab2q1.cpp"
+			],
+			[
+				"q3",
+				"lab2/lab2q3.cpp"
+			],
+			[
+				"cpp",
+				"lab1/lab1q1.cpp"
+			],
+			[
+				"q1",
+				"lab1/lab1q1.cpp"
+			],
+			[
+				"lab1",
+				"lab1/lab1q1.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
