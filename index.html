@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Exalted Combat</title>
+  <style type="text/css">
+    .tickDiv {
+      border: 1px solid black;
+      margin: 5px;
+      display: block;
+      max-width: 175px;
+      padding: 5px;
+    }
+    .tickLabel {
+      margin-top: 0;
+    }
+  </style>
+</head>
+<body>
+<script type="text/javascript">
+  function addTicksFn(param){
+    var name = param[0].value;
+    console.log(name);
+    var tick = parseInt(param[1].value) + parseInt(param[2].value);
+    console.log(tick);
+    localStorage.setItem(name, tick);
+  }
+</script>
+<div id="displayInfo"></div>
+<script type="text/javascript">
+
+  function findLowTick(){
+    var lowTick = -1;
+
+    for (var i = 0; i < localStorage.length; i++){
+      var value = parseInt(localStorage.getItem(localStorage.key(i)));
+      if (lowTick == -1 || value < lowTick) {
+        lowTick = value;
+      };
+    }  
+
+    return lowTick;
+  }
+  function findHighTick(){
+    var highTick = -1;
+
+    for (var i = 0; i < localStorage.length; i++){
+      var value = parseInt(localStorage.getItem(localStorage.key(i)));
+      if (highTick == -1 || value > highTick) {
+        highTick = value;
+      };
+    }  
+
+    return highTick;
+  }
+
+  var innerHTML = '';
+  var lowTick = findLowTick();
+  var highTick = findHighTick();
+
+  for (var i = lowTick; i <= highTick; i++) {
+    innerHTML += '<div class="tickDiv">'
+    innerHTML += '<p class="tickLabel">#' + i + ':</p>'
+    for (var j = 0; j < localStorage.length; j++){
+       if(i == localStorage.getItem(localStorage.key(j))){
+        innerHTML += '<form name="addTicks" onsubmit="return addTicksFn(this);" method="post"> <input type="hidden" name="name" value="' + localStorage.key(j) + '"><input type="hidden" name="tick" value="' + i + '"> <label>' + localStorage.key(j) + '</label> <input type="text" name="delay" placeholder="delay"> <input type="submit" value="Submit"> </form>';
+       }
+    }
+    innerHTML += '</div>'
+  };
+
+  document.getElementById('displayInfo').innerHTML = innerHTML;
+
+
+</script>
+<form name="addForm" method="post">
+  <input type="text" name="name" placeholder="name">
+  <input type="text" name="startTick" placeholder="starting tick">
+  <input type="submit" value="Submit">
+</form>
+<script type="text/javascript">
+  document.addForm.onsubmit = function( e ) {
+    var name = document.addForm.name.value;
+    var tick = parseInt(document.addForm.startTick.value);
+    localStorage.setItem(name, tick);
+  }
+</script>
+<form name="clearAllForm" method="post">
+  <input type="submit" value="Clear All">
+</form>
+<script type="text/javascript">
+  document.clearAllForm.onsubmit = function( e ) {
+    while(localStorage.length > 0){
+      localStorage.removeItem(localStorage.key(0));
+    }
+  }
+</script>
+</body>
+</html>
